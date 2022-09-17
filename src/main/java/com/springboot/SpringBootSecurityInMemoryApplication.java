@@ -9,5 +9,6 @@ public class SpringBootSecurityInMemoryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSecurityInMemoryApplication.class, args);
 	}
+	System.out.println("Hello");
 
 }
